@@ -1,4 +1,45 @@
 # Home-Lab-Active-Directory-Structure
+
+In this project
+
+I set up a basic home lab running Active Directory while using Oracle VirtualBox:
+
+Installed Oracle VirtualBox: 
+Downloaded and installed Oracle VirtualBox, this virtualization software allows me to create and manage virtual machines (VMs) on my computer.
+
+Downloaded Windows Server ISO: 
+Downloaded Windows Server ISO image from the Microsoft website to install the operating system on the virtual machine.
+
+Created a Virtual Machine:
+Created a new virtual machine from the VirtualBox and configured the settings, including assigning sufficient resources (CPU, RAM, storage) for the VM.
+
+Installed Windows Server: 
+Attached the Windows Server ISO to the virtual machine's virtual optical drive and powered the VM, the Windows Server installation on the VM was successful.
+
+Set Up Network: 
+Configured network settings for the VM.
+
+Configure Static IP: 
+Assigned a static IP address to the virtual machine within the home network's IP range.
+
+Installed Active Directory Domain Services (AD DS): 
+Using the Server Manager, installed Active Directory Domain Services role on the Windows Server VM. 
+
+Created a Domain: 
+Defined a new Active Directory domain.
+
+Created Organizational Units (OUs): 
+Organize the Active Directory structure by creating organizational units to represent different departments, teams, or functions.
+
+Created User Accounts and Groups: 
+Added user accounts and groups to the Active Directory domain, which allowed me to manage access and permissions within the lab environment.
+
+Tested the Active Directory: 
+Join a separate Windows client virtual machine to the just created domain, which validates the Active Directory is functioning correctly, and that domain authentication is working.
+
+Added Group Policy: 
+Created and applied Group Policy objects (GPOs) to manage and enforce settings on domain-joined computers. This helps you understand how Group Policy works in a controlled environment.
+
 ![image](https://github.com/Osagieoshodi/Home-Lab-Active-Directory/assets/141954663/3d2e6ca5-db01-4ced-be4c-8b1c0320ed6d)
 
 # CREATED VIRTUALBOX-VM
