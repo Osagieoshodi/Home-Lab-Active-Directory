@@ -84,8 +84,5 @@ Created and applied Group Policy objects (GPOs) to manage and enforce settings o
 # RESET USER PASSWORD-ACTIVE DIRECTORY
 ![image](https://github.com/Osagieoshodi/Home-Lab-Active-Directory/assets/141954663/7cf2e39e-7794-441d-8b79-bd50811c4752)
 
-# ADDED ROUTER-VIRTUALBOX_DC
-![image](https://github.com/Osagieoshodi/Home-Lab-Active-Directory/assets/141954663/9618d3f5-8bbc-4ce6-bc5c-bfa7c4da8555)
-
 # PING GOOGLE-TEST FOR INTERNET
 ![image](https://github.com/Osagieoshodi/Home-Lab-Active-Directory/assets/141954663/e844dcaf-75cb-405d-881a-78ee572d1e9e)
